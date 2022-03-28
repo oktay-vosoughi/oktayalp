@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oktayalp (oktay vosoughi)
+- 👋 Hi, I’m @oktay-vosoughi (oktay vosoughi)
 - 👀 I’m interested in front-end , datascience
 - 🌱 I’m currently learning a lot of thing
 - 💞️ I’m looking to collaborate on a company as an intern
